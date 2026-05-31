@@ -1,6 +1,7 @@
 # VideoMind
 
-> [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7464880551888404480/)
+>[LinkedIn Post with Demo Video](https://www.linkedin.com/feed/update/urn:li:activity:7464880551888404480/)
+
 
 An end-to-end multimodal AI platform for video forensics, deepfake detection,
 liveness analysis, emotion recognition, and speech transcription — with a
